@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iiSSM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="iiSSM.war">
+      <element id="artifact" artifact-name="iiSSM:war exploded" />
+    </root>
+  </artifact>
+</component>
